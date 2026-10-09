@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Flutter Full Stack App Development**
 
-- 🌱 I'm currently learning **Backend**
+- 🌱 Currently learning **Backend**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Dart, Flutter, Next.js, JS, TS, C, C++, Python, HTML, Network, OS, Node.js, Express JS, PostgreSQL **
 
-- 📫 How to reach me **rafsan.cse.47@gmail.com**
+- 📫 To reach me **rafsan.cse.47@gmail.com**
 
 - ⚡ Fun fact **I became a developer because I was frustrated.**
 
-- 👨‍💻 All of my projects are available at **[https://rafsanulrifat.vercel.app/](https://rafsanulrifat.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[hellorafsan](https://hellorafsandev.vercel.app/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/12ZQSgLTA1tqw-1jo86Dz51fEAHbU7f8W/view?usp=sharing](https://drive.google.com/file/d/12ZQSgLTA1tqw-1jo86Dz51fEAHbU7f8W/view?usp=sharing)**
 
